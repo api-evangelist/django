@@ -1,0 +1,15 @@
+name: Django
+description: A high-level Python web framework that encourages rapid development and
+  clean, pragmatic design. Django follows the model-template-views architectural pattern
+  and includes an ORM, admin interface, and robust security features out of the box.
+url: https://www.djangoproject.com/
+tags:
+- Python
+- Web Framework
+- Backend
+- MVC
+- ORM
+created: '2025'
+modified: '2025'
+apis: []
+common: []
