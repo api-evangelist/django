@@ -1,15 +1,30 @@
+aid: django
 name: Django
-description: A high-level Python web framework that encourages rapid development and
-  clean, pragmatic design. Django follows the model-template-views architectural pattern
-  and includes an ORM, admin interface, and robust security features out of the box.
-url: https://www.djangoproject.com/
+description: >-
+  A high-level Python web framework that encourages rapid development and
+  clean, pragmatic design. Django follows the model-template-views architectural
+  pattern and includes an ORM, admin interface, and robust security features
+  out of the box. It is widely used for building web applications and APIs.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Python
-- Web Framework
-- Backend
-- MVC
-- ORM
-created: '2025'
-modified: '2025'
+  - Python
+  - Web Framework
+  - Backend
+  - MVC
+  - ORM
+url: https://www.djangoproject.com/
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://www.djangoproject.com/
+  - type: Documentation
+    url: https://docs.djangoproject.com/
+  - type: GitHub Organization
+    url: https://github.com/django/django
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
