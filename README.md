@@ -1,5 +1,5 @@
 # Django (django)
-A high-level Python web framework that encourages rapid development and clean, pragmatic design. Django follows the model-template-views architectural pattern and includes an ORM, admin interface, and robust security features out of the box. It is widely used for building web applications and APIs.
+A high-level Python web framework that encourages rapid development and clean, pragmatic design. Django follows the model-template-views architectural pattern and includes an ORM, automatic admin interface, robust template system, and quick internationalization support. The current release line is Django 6.0, supported by the non-profit Django Software Foundation, and it powers some of the busiest websites globally.
 
 **URL:** [Visit APIs.json URL](https://www.djangoproject.com/)
 
@@ -16,7 +16,7 @@ A high-level Python web framework that encourages rapid development and clean, p
 ## Timestamps
 
 - **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Modified:** 2026-04-28 
 
 ## Common Properties
 
