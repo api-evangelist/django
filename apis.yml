@@ -25,7 +25,7 @@ common:
     url: https://www.djangoproject.com/
   - type: Documentation
     url: https://docs.djangoproject.com/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/django/django
 maintainers:
   - FN: Kin Lane
