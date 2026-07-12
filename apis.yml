@@ -21,6 +21,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/django-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/django-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/django-software-foundation
   - type: Website
@@ -29,6 +33,8 @@ common:
     url: https://docs.djangoproject.com/
   - type: GitHubOrganization
     url: https://github.com/django/django
+  - url: https://www.djangoproject.com/rss/weblog/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
